@@ -116,8 +116,6 @@ agent.perform_action("nothing")
 agent.print_status()
 ```
 ### Sample Output:
-
-
 ![b7860a40-7462-41fb-aa26-687b8329fab1](https://github.com/user-attachments/assets/9937f650-02d8-40b4-b1d1-c56cb1fcc52e)
 
 ### Result:
