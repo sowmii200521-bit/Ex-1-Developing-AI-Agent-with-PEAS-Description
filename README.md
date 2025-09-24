@@ -1,7 +1,7 @@
 # Ex-1-Developing-AI-Agent-with-PEAS-Description
-### Name: Sameena J
+### Name: SOWMIYA G
 
-### Register Number: 2305002019
+### Register Number: 2305002023
 
 ### Aim:
 To find the PEAS description for the given AI problem and develop an AI agent.
